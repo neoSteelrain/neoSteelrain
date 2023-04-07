@@ -6,9 +6,16 @@
 <a href="https://github.com/neoSteelrain/lilac-springboot-web" target="_blank"> 유튜브 기반 강의사이트 </a> <br>
 <a href="https://github.com/neoSteelrain/lilac-springboot-batch" target="_blank"> 유튜브 기반 강의사이트용 배치 </a>
 
+## 🔨 사용해본 기술들
+- Java
+- Spring
+- Mybatis
+- JavaScript
+- jQuery
+
 ## 💬 관심있어 하는 것들
 - 백엔드 (Java, 아직은 Java 만...)
-- 프런트엔드 (jQuery, JS 쉽지않군... 리액트도 해봐야 할텐데... 언제하지)
+- 프런트엔드 (jQuery, React)
 - Design Patterns
 - 클라우드 : 밀림왕, 9글
 
