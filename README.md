@@ -9,7 +9,7 @@
 ## 🔨 사용해본 기술들
 - Java
 - Spring
-- Myatis
+- MyBatis
 - JavaScript
 - jQuery
 
