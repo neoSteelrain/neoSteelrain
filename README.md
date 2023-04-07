@@ -2,6 +2,10 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto&weight=800&size=25&pause=1000&color=34ADE7&width=600&lines=%EC%95%84%EB%8B%88!+%EC%9D%B4%EB%9F%B4%EC%88%98%EA%B0%80!;%EC%8B%A0%EB%B0%95%ED%95%9C+%EB%AC%BC%EA%B1%B4%EC%9D%B4+%EB%82%98%EC%98%A4%EB%8A%94+%EA%B7%B8%EB%82%A0%EA%B9%8C%EC%A7%80!+)](https://git.io/typing-svg)
 
+## 🛠️ 개인 프로젝트들
+<a href="https://github.com/neoSteelrain/lilac-springboot-web" target="_blank"> 유튜브 기반 강의사이트 </a> <br>
+<a href="https://github.com/neoSteelrain/lilac-springboot-batch" target="_blank"> 유튜브 기반 강의사이트용 배치 </a>
+
 ## 💬 관심있어 하는 것들
 - 백엔드 (Java, 아직은 Java 만...)
 - 프런트엔드 (jQuery, JS 쉽지않군... 리액트도 해봐야 할텐데... 언제하지)
