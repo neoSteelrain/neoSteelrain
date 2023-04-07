@@ -7,8 +7,8 @@
 <a href="https://github.com/neoSteelrain/lilac-springboot-batch" target="_blank"> 유튜브 기반 강의사이트용 배치 </a>
 
 ## 🔨 사용해본 기술들
-- Java
-- Spring
+- Java 
+- Spring, Spring boot
 - MyBatis
 - JavaScript
 - jQuery
