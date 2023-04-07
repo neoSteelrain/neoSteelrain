@@ -11,25 +11,10 @@
 - 애니 보기 ( Blame 명작, 귀칼은 그닥... )
 - 유튜브 보기 ( 영화요약영상이 생각보다 재있네요 )
 
-## 🔭 지금 작업중인 것들
+## 💻 작업중인 것들
 - 포트폴리오 수정 및 보강하기
 - 취업 준비 중
 
-## 🌱 지금 공부중인 것들
+## 📚 공부중인 것들
 - Spring 고급과정 공부하기
 - 까먹었던 C/S 공부
-
-<!--
-**neoSteelrain/neoSteelrain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
