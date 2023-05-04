@@ -5,7 +5,6 @@
 ### 🛠️ 개인 프로젝트들
 <a href="https://github.com/neoSteelrain/lilac-springboot-web" target="_blank"> 유튜브 기반 노트사이트 </a> <br>
 <a href="https://github.com/neoSteelrain/lilac-springboot-batch" target="_blank"> 유튜브 데이터수집용 배치 </a> <br>
-<a href="http://ec2-15-165-21-30.ap-northeast-2.compute.amazonaws.com" target="_blank">배포 사이트로 이동</a>
 
 ### 🔨 사용해본 기술들
 - Java 
